@@ -1,23 +1,22 @@
 # Real-Time Disaster Detection Using Machine Learning 🌍🔥
 
-Hi! I'm a first-year engineering student currently diving deep into the world of Data Science and Machine Learning. This is one of my first real projects where I try to apply what I'm learning to something that could actually make a difference.
+Hi! I'm a engineering student currently diving deep into the world of Data Science and Machine Learning. This is one of my first real projects where I try to apply what I'm learning to something that could actually make a difference.
 
 ## 🚀 What This Project Does
 
-This is a beginner-friendly (but growing) system that uses machine learning models to detect and predict natural disasters like forest fires based on data. I'm experimenting with real-time data (APIs/sensors), classification models, and alert systems.
+This is a beginner-friendly (but growing) system that uses AI and machine learning models to detect and predict natural disasters like forest fires, floods, etc. based on data. I'm experimenting with real-time data (APIs/sensors), classification models, and alert systems.
 
 ## 📌 Main Goals
 
-- Understand how machine learning can help prevent disasters
+- Understand how AI and machine learning can help prevent disasters
 - Build something real that might help in the future
-- Learn the tools professionals use (like Python, Pandas, Scikit-learn, etc.)
+- Learn the tools professionals use (like Python, Pandas, etc.)
 - Eventually make it smart enough for real-world deployment
 
 ## 🧠 Tech Stack
 
 - Python
 - Pandas / NumPy
-- Scikit-learn
 - Matplotlib / Streamlit (UI)
 - [Optional: Any APIs you’ve tried]
 
