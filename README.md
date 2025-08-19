@@ -18,7 +18,6 @@ This is a beginner-friendly (but growing) system that uses AI and machine learni
 - Python
 - Pandas / NumPy
 - Matplotlib / Streamlit (UI)
-- [Optional: Any APIs you’ve tried]
 
 ## 🤔 Why I'm Building This
 
