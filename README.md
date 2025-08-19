@@ -1,4 +1,4 @@
-# Real-Time Disaster Detection Using Machine Learning 🌍🔥
+ # Real-Time Disaster Detection Using Machine Learning 🌍🔥
 
 Hi! I'm a engineering student currently diving deep into the world of Data Science and Machine Learning. This is one of my first real projects where I try to apply what I'm learning to something that could actually make a difference.
 
